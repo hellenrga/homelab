@@ -1,7 +1,0 @@
-[user]
-	name = hellenrga
-	email = hellenassis.dev@gmail.com
-[credential]
-	helper = cache
-[init]
-	defaultBranch = main
